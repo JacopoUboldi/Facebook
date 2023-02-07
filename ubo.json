@@ -1,21 +1,25 @@
 {
-  "_id": {
-    "$oid": "63d6560b0c430f6299827846"
-  },
-  "autorePost": "pippo",
-  "testoPost": "testooo",
-  "like": 0,
-  "commenti": [
+  "posts":[ 
     {
-      "testoCommento": "com1"
+      "id": 1,
+      "like" : 2,
+      "autore": "dario",
+      "testo" : ""
     },
     {
-      "testoCommento": "com2"
-    },
-    {
-      "testoCommento": "com3"
+      
+     "id": 3,
+      "like" : 4,
+      "autore": "Mario",
+      "testo" : "ciccio"
+    
     }
   ]
+
+
+
+
+
 }
 
 
